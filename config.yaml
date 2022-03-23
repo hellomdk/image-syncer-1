@@ -4,4 +4,4 @@ auth:
     password: DOCKERHUB_USERNAME
 images:
   # rook
-  gcr.io/kaniko-project/executor:v1.8.0-debug: hellomdk/kaniko-project/executor:v1.8.0
+  gcr.io/kaniko-project/executor:v1.8.0-debug: linzhi747/executor:v1.8.0
