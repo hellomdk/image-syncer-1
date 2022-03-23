@@ -4,4 +4,4 @@ auth:
     password: mdk961214
 images:
   # rook
-  gcr.io/kaniko-project/executor:v1.8.0-debug: hellomdk/kaniko-project/executor:v1.8.0-debug
+  gcr.io/kaniko-project/executor:v1.8.0-debug: hellomdk/kaniko-project/executor:v1.8.0
